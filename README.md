@@ -10,3 +10,5 @@ testing the colab from google
   catafest_004.ipynb - testing the cirq python package for quantum computing;
   
   catafest_005.ipynb - using the estimator on tensoflow 2.0;
+  
+  python_imdb_001.ipynb - using the colab with python module imdbpy;
