@@ -12,3 +12,5 @@ testing the colab from google
   catafest_005.ipynb - using the estimator on tensoflow 2.0;
   
   python_imdb_001.ipynb - using the colab with python module imdbpy;
+
+  catafest_005.ipynb - google authentification and google.colab drive and files
