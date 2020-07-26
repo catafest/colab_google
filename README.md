@@ -13,4 +13,9 @@ testing the colab from google
   
   python_imdb_001.ipynb - using the colab with python module imdbpy;
 
-  catafest_005.ipynb - google authentification and google.colab drive and files
+  catafest_006.ipynb - google authentification and google.colab drive and files
+  
+  catafest_007.ipynb - test with https://github.com/harrism/numba_examples/blob/master/mandelbrot_numba.ipynb
+  
+  
+
