@@ -17,5 +17,9 @@ testing the colab from google
   
   catafest_007.ipynb - test with https://github.com/harrism/numba_examples/blob/master/mandelbrot_numba.ipynb
   
+  catafest_008.ipynb - few simple examples with selenium and chromium-chromedriver;
+  
+  
+  
   
 
