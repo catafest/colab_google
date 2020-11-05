@@ -19,6 +19,7 @@ testing the colab from google
   
   catafest_008.ipynb - few simple examples with selenium and chromium-chromedriver;
   
+  catafest_009.ipynb - show you how to use %% colab features;
   
   
   
