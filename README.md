@@ -1,5 +1,5 @@
 # colab_google
-testing the colab from google 
+>testing the colab from google 
   
   catafest_001.ipynb - first step , import tensorflow;
   
@@ -20,6 +20,8 @@ testing the colab from google
   catafest_008.ipynb - few simple examples with selenium and chromium-chromedriver;
   
   catafest_009.ipynb - show you how to use %% colab features;
+  
+  catafest_010.ipynb - example with Detectron2 is Facebook AI Research's with state-of-the-art object detection algorithms;
   
   
   
