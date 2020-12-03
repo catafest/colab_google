@@ -23,7 +23,7 @@
   
   catafest_010.ipynb - example with Detectron2 is Facebook AI Research's with state-of-the-art object detection algorithms;
   
-  catafest_010.ipynb - test a sound classification with YAMNet from a web example - not very happy with the result;
+  catafest_011.ipynb - test a sound classification with YAMNet from a web example - not very happy with the result;
   
   
   
