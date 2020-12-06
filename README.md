@@ -25,6 +25,8 @@
   
   catafest_011.ipynb - test a sound classification with YAMNet from a web example - not very happy with the result;
   
+  catafest_012.ipynb - a simple tutorial about Colab tool and HTML and JavaScript with examples;
+  
   
   
 
