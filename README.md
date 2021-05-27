@@ -27,6 +27,6 @@
   
   catafest_012.ipynb - a simple tutorial about Colab tool and HTML and JavaScript with examples;
   
-  
+  catafest_013.ipynb - a simple tutorial with settings for TPU and IMDB dataset;
   
 
