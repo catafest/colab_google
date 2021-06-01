@@ -29,4 +29,6 @@
   
   catafest_013.ipynb - a simple tutorial with settings for TPU and IMDB dataset;
   
+  catafest_014.ipynb - get IMDB review dataset and show it;
+  
 
