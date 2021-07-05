@@ -35,4 +35,6 @@
   
   catafest_016.ipynb - show the shape of the Fashion-MNIST dataset;
   
+  catafest_017.ipynb - this example show you how to write another python script in colab and run it;
+  
 
