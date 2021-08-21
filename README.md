@@ -38,4 +38,5 @@
   
   catafest_017.ipynb - this example show you how to write another python script in colab and run it;
   
+  catafest_018.ipynb - PIFuHD demo;
 
