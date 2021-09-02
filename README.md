@@ -40,4 +40,6 @@
   
   catafest_018.ipynb - PIFuHD demo;
   
-  catafest_019.ipynb - get title from tiles.virtualearth.net
+  catafest_019.ipynb - get title from tiles.virtualearth.net;
+  
+  catafest_020.ipynb - get video from youtube with pytube, converting tu audio, show signal wave, energy and frequency;
