@@ -1,10 +1,10 @@
- Countring all the visitors: ![](https://vistr.dev/badge?repo=catafest.colab_google)
+ Countring all the visitors: ![Countring all the visitors](https://vistr.dev/badge?repo=catafest.colab_google)
  
  Source code: ![Lines of code](https://img.shields.io/tokei/lines/github/catafest/colab_google)
  
  Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
  
- Follow me on twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/catafest?style=social)
+
  
 # colab_google
 >testing the colab from google 
