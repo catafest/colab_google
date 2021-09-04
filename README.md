@@ -4,7 +4,7 @@
  
  Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
  
- Follow on twitter: ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcatafest)
+ Follow on twitter: ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fcatafest)
  
 # colab_google
 >testing the colab from google 
