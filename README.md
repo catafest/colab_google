@@ -9,9 +9,9 @@
 # colab_google
 >testing the colab from google 
   
-  catafest_001.ipynb - first step , import tensorflow;
+  catafest_001.ipynb - first step, import TensorFlow;
   
-  catafest_002.ipynb - testing the GPU , Linux commands and python modules torch and fastai;
+  catafest_002.ipynb - testing the GPU, Linux commands and python modules torch and fastai;
   
   catafest_003.ipynb - testing the Altair;
   
@@ -39,17 +39,17 @@
   
   catafest_014.ipynb - get IMDB review dataset and show it;
   
-  catafest_015.ipynb - how to get, show and use it data and create a new train data set from IMDB dataset;
+  catafest_015.ipynb - how to get, show and use data and create a new train data set from IMDB dataset;
   
   catafest_016.ipynb - show the shape of the Fashion-MNIST dataset;
   
-  catafest_017.ipynb - this example show you how to write another python script in colab and run it;
+  catafest_017.ipynb - this example shows you how to write another python script in colab and run it;
   
   catafest_018.ipynb - PIFuHD demo;
   
   catafest_019.ipynb - get title from tiles.virtualearth.net;
   
-  catafest_020.ipynb - get video from youtube with pytube, converting to audio, show signal wave, energy and frequency;
+  catafest_020.ipynb - get video from youtube with the pytube, converting to audio, show signal wave, energy, and frequency;
   
   catafest_021.ipynb - BERT is a transformers model with example and sentiment-analysis;
   
