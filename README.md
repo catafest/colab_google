@@ -4,7 +4,7 @@
  
  Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
  
-
+![](https://vistr.dev/badge?repo=catafest.colab_google) 
  
 # colab_google
 >testing the colab from google 
