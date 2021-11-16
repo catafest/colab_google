@@ -56,3 +56,5 @@
   catafest_022.ipynb - webcam on colab with python and javascript;
   
   catafest_023.ipynb - a brief introduction to the area of statistics and the python programming language;
+  
+  catafest_024.ipynb - simple example with selenium package for parsing web;
