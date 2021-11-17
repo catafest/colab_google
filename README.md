@@ -3,9 +3,7 @@
  Source code: ![Lines of code](https://img.shields.io/tokei/lines/github/catafest/colab_google)
  
  Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
- 
-
- 
+  
 # colab_google
 >testing the colab from google 
   
@@ -58,3 +56,5 @@
   catafest_023.ipynb - a brief introduction to the area of statistics and the python programming language;
   
   catafest_024.ipynb - simple example with selenium package for parsing web;
+  
+  catafest_025.ipynb - test and get info from GPU on colab online tool;
