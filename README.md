@@ -59,4 +59,6 @@
   
   catafest_025.ipynb - test and get info from GPU on colab online tool;
   
+  catafest_026.ipynb - MechanicalSoup and python; 
+  
   catafest_027.ipynb - testing the new Torch-TensorRT on google colab;
