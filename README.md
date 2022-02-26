@@ -58,3 +58,5 @@
   catafest_024.ipynb - simple example with selenium package for parsing web;
   
   catafest_025.ipynb - test and get info from GPU on colab online tool;
+  
+  catafest_027.ipynb - testing the new Torch-TensorRT on google colab;
