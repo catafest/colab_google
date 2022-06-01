@@ -64,3 +64,5 @@
   catafest_026.ipynb - MechanicalSoup and python; 
   
   catafest_027.ipynb - testing the new Torch-TensorRT on google colab;
+
+  catafest_028.ipynb - pytorch and torchvision and save model to Google drive;
