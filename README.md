@@ -68,3 +68,7 @@
   catafest_028.ipynb - PyTorch and torchvision and save the model to Google drive;
 
   catafest_029.ipynb - simple data processing of the first image from NASA's James Webb Space Telescope;
+
+  catafest_030.ipynb - simple demo with Chinese language and vosk python module.
+
+  catafest_031.ipynb - simple demo with translating the subtitle from youtube URL using the youtube_transcript_api and googletrans python module.
