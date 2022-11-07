@@ -72,3 +72,5 @@
   catafest_030.ipynb - simple demo with Chinese language and vosk python module.
 
   catafest_031.ipynb - simple demo with translating the subtitle from youtube URL using the youtube_transcript_api and googletrans python module.
+  
+  catafest_032.ipynb - simple python code source for webcam and store the result on Google Drive, use kora to show the video, pytube to download, progressbar like HTML in colab and some progressbars example with tqdm python package;
