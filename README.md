@@ -76,3 +76,5 @@
   catafest_032.ipynb - simple python code source for webcam and store the result on Google Drive, use kora to show the video, pytube to download, progressbar like HTML in colab and some progressbars example with tqdm python package;
   
   catafest_033.ipynb - how to search images with Google custom search A.P.I.
+  
+  catafest_033.ipynb - Latex equations on colab ...
