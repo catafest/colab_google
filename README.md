@@ -84,3 +84,5 @@
   catafest_036.ipynb - this colab notebook come with: update of IPython, PyTikTokAPI python module using the cookies browser and a simple opencv test to create an image and show with google.colab.patches;
   
   catafest_036.ipynb - this notebook show: 1.how to use with the basic SGD the old implementation of optimizer and  the last tensorflow implementation for Adafactor optimizer; 2. how to use wurlitzer package is a tool for capturing and displaying the output of external processes; 
+  
+  catafest_037.ipynb - using Adafactor optimizer with tensorflow ,and the wurlitzer python package and  ...   
