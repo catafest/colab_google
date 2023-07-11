@@ -1,7 +1,4 @@
- Counting all the visitors:![](https://vistr.dev/badge?repo=catafest.colab_google)
- 
- Source code:![Lines of code](https://img.shields.io/tokei/lines/github/catafest/colab_google)
- 
+
  Commit activity:![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
   
 # colab_google
@@ -92,3 +89,5 @@
   catafest_039.ipynb - search news using News API python package and a text ...  
 
   catafest_040.ipynb - how to use OpenAI's Animov model has an aspect called "text-to-video" ...
+
+  catafest_041.ipynb - how to list all running VM processes in colab google ...
