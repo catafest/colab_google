@@ -27,9 +27,9 @@
   
   catafest_011.ipynb - test a sound classification with YAMNet from a web example - not very happy with the result;
   
-  catafest_012.ipynb - a simple tutorial about Colab tool and HTML and JavaScript with examples;
+  catafest_012.ipynb - a simple tutorial about the Colab tool and HTML and JavaScript with examples;
   
-  catafest_028.ipynb - basic usage for PyTorch and torchvision and upload the model to Google drive;
+  catafest_028.ipynb - basic usage for PyTorch and torchvision and upload the model to Google Drive;
   
   catafest_013.ipynb - a simple tutorial with settings for TPU and IMDB dataset;
   
@@ -61,7 +61,7 @@
   
   catafest_027.ipynb - testing the new Torch-TensorRT on google colab;
 
-  catafest_028.ipynb - PyTorch and torchvision and save the model to Google drive;
+  catafest_028.ipynb - PyTorch and torchvision and save the model to Google Drive;
 
   catafest_029.ipynb - simple data processing of the first image from NASA's James Webb Space Telescope;
 
@@ -81,7 +81,7 @@
   
   catafest_036.ipynb - this notebook show: 1. how to use with the basic SGD the old implementation of optimizer and  the last tensorflow implementation for Adafactor optimizer; 2. how to use Wurlitzer package is a tool for capturing and displaying the output of external processes; 
   
-  catafest_037.ipynb - using Adafactor optimizer with TensorFlow, the Wurlitzer python package and  ...   
+  catafest_037.ipynb - using Adafactor optimizer with TensorFlow, the Wurlitzer python package ...   
 
   catafest_038.ipynb - simple example with StableDiffusionPipeline and DiffusionPipeline to generate images based a text ...  
 
