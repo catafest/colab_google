@@ -1,5 +1,4 @@
-
- Commit activity:![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
+ Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
   
 # colab_google
 > Testing the colab from Google 
