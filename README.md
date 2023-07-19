@@ -91,5 +91,5 @@
 
   catafest_041.ipynb - how to list all running VM processes in colab Google...
 
-  catafest_042.ipynb - how to use LLaMA - Large Language Model Meta AI.
+  catafest_042.ipynb - how to use LLaMA - Large Language Model Meta AI with python.
 
