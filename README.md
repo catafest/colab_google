@@ -95,5 +95,7 @@
 
   catafest_043.ipynb - run a CUDA program with NVIDIA CUDA Compiler Driver NVCC.
 
-  catafest_044.ipynb - use Google authentication library for Python in order to create a file on Google Drive.
+  catafest_044.ipynb - how to use the Google authentication library for Python in order to create a file on Google Drive.
+
+  catafest_045.ipynb - how to use textgenrnn modern neural network architecture which utilizes new techniques such as attention-weighting.
   
