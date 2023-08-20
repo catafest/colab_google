@@ -100,4 +100,6 @@
   catafest_045.ipynb - how to use textgenrnn modern neural network architecture which utilizes new techniques such as attention-weighting.
 
   catafest_046.ipynb - how to define and test a simple Gated Recurrent Unit - GRUs.
+
+  catafest_047.ipynb - how to define and test a simple recurrent neural network - RNN.
   
