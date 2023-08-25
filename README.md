@@ -102,4 +102,6 @@
   catafest_046.ipynb - how to define and test a simple Gated Recurrent Unit - GRUs.
 
   catafest_047.ipynb - how to define and test a simple recurrent neural network - RNN.
+
+  catafest_048.ipynb - testing SeamlessM4T based on https://huggingface.co/spaces/facebook/seamless_m4t
   
