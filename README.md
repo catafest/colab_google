@@ -106,4 +106,6 @@
   catafest_048.ipynb - testing SeamlessM4T based on https://huggingface.co/spaces/facebook/seamless_m4t
 
   catafest_049.ipynb - some examples with langchain python package and - one incomplete example with 'OpenAIWhisperParser'
+
+  catafest_050.ipynb - get images from imdb.com by the name of the actor/actress
   
