@@ -108,4 +108,5 @@
   catafest_049.ipynb - some examples with langchain python package and - one incomplete example with 'OpenAIWhisperParser'
 
   catafest_050.ipynb - get images from imdb.com by the name of the actor/actress
-  
+
+  catafest_051.ipynb - folosirea modulului ffmpeg-python si pytube cu colab notebook
