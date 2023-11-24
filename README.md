@@ -111,4 +111,4 @@
 
   catafest_051.ipynb - folosirea modulului ffmpeg-python si pytube cu colab notebook
 
-  catafest_052.ipynb - print date from google spreadsheet on colab notebook
+  catafest_052.ipynb - print data from google spreadsheet on colab notebook
