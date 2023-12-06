@@ -114,3 +114,5 @@
   catafest_052.ipynb - print data from google spreadsheet on colab notebook
 
   catafest_053.ipynb - using transformers with huggingface.co/datasets sound
+  
+  catafest_054.ipynb - simple partial differentiation for math function with SymPy
