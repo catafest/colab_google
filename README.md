@@ -118,3 +118,5 @@
   catafest_054.ipynb - simple partial differentiation for math function with SymPy
 
   catafest_055.ipynb - testing with python packages: matplotlib, cartopy, numpy, geemap, earthengine-api from Google and rasterio to show TIF file images, use Google Drive with Colab.
+
+  catafest_056.ipynb - simple example with LaTeX.
