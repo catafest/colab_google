@@ -121,4 +121,4 @@
 
   catafest_056.ipynb - simple example with LaTeX.
 
-  catafest_056.ipynb - simple example with NVCC use CUDA C/C++ source code on google colab.
+  catafest_057.ipynb - simple example with NVCC use CUDA C/C++ source code on google colab.
