@@ -123,4 +123,4 @@
 
   catafest_057.ipynb - simple example with NVCC use CUDA C/C++ source code on Google Colab.
 
-  catafest_055.ipynb - YOLO9 with GELAN-C model on colab notebook.
+  catafest_055.ipynb - YOLOv9 with GELAN-C model on colab notebook.
