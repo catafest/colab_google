@@ -124,3 +124,6 @@
   catafest_057.ipynb - simple example with NVCC use CUDA C/C++ source code on Google Colab.
 
   catafest_058.ipynb - YOLOv9 with GELAN-C model on colab notebook.
+
+  catafest_059.ipynb - using Tacotron 2 and WaveGlow model with the basic example, second part is not finised - mayba a bug.
+
