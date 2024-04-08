@@ -127,3 +127,5 @@
 
   catafest_059.ipynb - using Tacotron 2 and WaveGlow model with the basic example, second part is not finised - mayba a bug.
 
+  catafest_060.ipynb - get data from NASA satellite named MERRA2, see https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2
+
