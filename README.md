@@ -129,3 +129,5 @@
 
   catafest_060.ipynb - get data from NASA satellite named MERRA2, see https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2
 
+  catafest_060.ipynb - intro in quantum circuits with qiskit and IBM Quantum Platform, you need a token to use it.
+
