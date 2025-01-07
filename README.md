@@ -111,13 +111,13 @@
 
   catafest_051.ipynb - folosirea modulului ffmpeg-python si pytube cu colab notebook
 
-  catafest_052.ipynb - print data from google spreadsheet on colab notebook
+  catafest_052.ipynb - print data from Google spreadsheet on colab notebook
 
   catafest_053.ipynb - using transformers with huggingface.co/datasets sound
   
   catafest_054.ipynb - simple partial differentiation for math function with SymPy
 
-  catafest_055.ipynb - testing with python packages: matplotlib, cartopy, numpy, geemap, earthengine-api from Google and rasterio to show TIF file images, use Google Drive with Colab.
+  catafest_055.ipynb - testing with Python packages: matplotlib, cartopy, numpy, geemap, earthengine-api from Google and rasterio to show TIF file images, use Google Drive with Colab.
 
   catafest_056.ipynb - simple example with LaTeX.
 
@@ -125,10 +125,12 @@
 
   catafest_058.ipynb - YOLOv9 with GELAN-C model on colab notebook.
 
-  catafest_059.ipynb - using Tacotron 2 and WaveGlow model with the basic example, second part is not finised - mayba a bug.
+  catafest_059.ipynb - using Tacotron 2 and WaveGlow model with the basic example, the second part is not finised - mayba a bug.
 
   catafest_060.ipynb - get data from NASA satellite named MERRA2, see https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2.
 
   catafest_061.ipynb - intro in quantum circuits with qiskit and IBM Quantum Platform, you need a token to use it.
 
-  catafest_062.ipynb - intro with mistralai , simple test. 
+  catafest_062.ipynb - intro with mistralai, simple test. 
+
+  catafest_063.ipynb - simple example with gradio python package on colab notebook.
