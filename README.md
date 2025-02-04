@@ -138,3 +138,5 @@
   catafest_064.ipynb - simple example with gradio python package and diffuser python package to create a texture on colab notebook.
 
   catafest_065.ipynb - using the xterm on colab 
+
+  catafest_066.ipynb - example with OllamaFunctions from langchain_experimental : hull convex - lattrice 
