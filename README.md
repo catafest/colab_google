@@ -136,3 +136,5 @@
   catafest_063.ipynb - simple example with gradio python package on colab notebook.
   
   catafest_064.ipynb - simple example with gradio python package and diffuser python package to create a texture on colab notebook.
+
+  catafest_065.ipynb - using the xterm on colab 
