@@ -140,3 +140,5 @@
   catafest_065.ipynb - using the xterm on colab 
 
   catafest_066.ipynb - example with OllamaFunctions from langchain_experimental : hull convex - lattrice 
+
+  catafest_067.ipynb - testing the tensorflow.keras with VGG16
