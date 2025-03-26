@@ -142,3 +142,5 @@
   catafest_066.ipynb - example with OllamaFunctions from langchain_experimental : hull convex - lattrice 
 
   catafest_067.ipynb - testing the tensorflow.keras with VGG16
+
+  catafest_068.ipynb - testing the default example from https://github.com/THUDM/CogVideo with CogVideoX-5B model and default example
