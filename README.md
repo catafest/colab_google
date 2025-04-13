@@ -125,7 +125,7 @@
 
   catafest_058.ipynb - YOLOv9 with GELAN-C model on colab notebook.
 
-  catafest_059.ipynb - using Tacotron 2 and WaveGlow model with the basic example, the second part is not finised - mayba a bug.
+  catafest_059.ipynb - using Tacotron 2 and WaveGlow model with the basic example, FIXED : use NVIDIA models and works.
 
   catafest_060.ipynb - get data from NASA satellite named MERRA2, see https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2.
 
