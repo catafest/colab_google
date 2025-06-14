@@ -145,4 +145,6 @@
 
   catafest_068.ipynb - testing the default example from https://github.com/THUDM/CogVideo with CogVideoX-5B model and default example
 
-  catafest_069.ipynb - test simple examples with Protocol Buffers, I used gemini AI for test and learn 
+  catafest_069.ipynb - test with simple image to video with stabilityai 
+
+  catafest_070.ipynb - test simple examples with Protocol Buffers, I used gemini AI for test and learn 
