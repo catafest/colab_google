@@ -150,3 +150,5 @@
   catafest_070.ipynb - test simple examples with Protocol Buffers, I used Gemini AI for testing and learn 
 
   catafest_071.ipynb - simple example with altair and vega-datasets python packages.
+
+  catafest_072.ipynb - first part fix save to github source code for delete metadata, second generate images with model CompVis/stable-diffusion-v1-4.
