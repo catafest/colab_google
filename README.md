@@ -147,8 +147,11 @@
 
   catafest_069.ipynb - test with simple image to video with stabilityai 
 
-  catafest_070.ipynb - test simple examples with Protocol Buffers, I used Gemini AI for testing and learn 
+  catafest_070.ipynb - test simple examples with Protocol Buffers, I used Gemini AI for testing and learning. 
 
   catafest_071.ipynb - simple example with altair and vega-datasets python packages.
 
-  catafest_072.ipynb - first part fix save to github source code for delete metadata, second generate images with model CompVis/stable-diffusion-v1-4.
+  catafest_072.ipynb - first part fix save to GitHub source code for delete metadata, second generate images with model CompVis/stable-diffusion-v1-4.
+
+  catafest_073.ipynb - testing ``ipywidgets``, simple example.
+
