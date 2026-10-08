@@ -1,4 +1,8 @@
- Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
+Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/catafest/colab_google)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=catafest/colab_google&type=timeline&logscale&legend=bottom-right)](https://www.star-history.com/?repos=catafest%2Fcolab_google&type=timeline&logscale=&releases=&legend=bottom-right)
   
 # colab_google
 > Testing the colab with Google 
