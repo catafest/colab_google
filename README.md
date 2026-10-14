@@ -159,3 +159,5 @@ Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-
 
   catafest_073.ipynb - testing ``ipywidgets``, simple example.
 
+  catafest_074.ipynb - Quantum Portfolio Optimization for four major tech stocks (NVDA, AAPL, MSFT, AMZN) using NVIDIA CUDA-Q 
+
