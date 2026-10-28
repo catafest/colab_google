@@ -157,7 +157,13 @@ Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-
 
   catafest_072.ipynb - first part fix save to GitHub source code for delete metadata, second generate images with model CompVis/stable-diffusion-v1-4.
 
-  catafest_073.ipynb - testing ``ipywidgets``, simple example.
+  catafest_073.ipynb - testing ``ipywidgets``, simple example;
+
+  catafest_074.ipynb - QAOA quantum optimizer evaluated for market;
+
+  catafest_075.ipynb - ObjectClear tool with ObjectClear with diffusers ...
+
+  catafest_076.ipynb - use astroquery archive scanner
 
   catafest_074.ipynb - Quantum Portfolio Optimization for four major tech stocks (NVDA, AAPL, MSFT, AMZN) using NVIDIA CUDA-Q 
 
