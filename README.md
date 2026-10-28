@@ -159,7 +159,7 @@ Commit activity: ![GitHub commit activity](https://img.shields.io/github/commit-
 
   catafest_073.ipynb - testing ``ipywidgets``, simple example;
 
-  catafest_074.ipynb - QAOA quantum optimizer evaluated for market;
+  catafest_074.ipynb - QAOA quantum optimizer evaluated for market with cuda-q;
 
   catafest_075.ipynb - ObjectClear tool with ObjectClear with diffusers ...
 
